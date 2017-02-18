@@ -6,9 +6,9 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 @SpringBootApplication
 @EnableDiscoveryClient
-public class Microspring5EurekaDiscoveryClientWordLab5Application {
+public class Microspring5EurekaDiscoveryClientWordLab4Application {
 
     public static void main(String[] args) {
-        SpringApplication.run(Microspring5EurekaDiscoveryClientWordLab5Application.class, args);
+        SpringApplication.run(Microspring5EurekaDiscoveryClientWordLab4Application.class, args);
     }
 }
